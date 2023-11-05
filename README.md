@@ -1,11 +1,10 @@
 # hackCBS 6.0
 
 ## Problem Statement
-In the current healthcare landscape, the management and maintenance of Electronic Health Records (EHRs) present several critical challenges. Healthcare institutions, providers, and patients are struggling with issues related to data security, interoperability, privacy, data access control, and regulatory compliance. Furthermore, the increasing volume of health data generated and the need for seamless sharing among various healthcare stakeholders have intensified these challenges. There is an urgent need for an EHR maintenance solution that addresses these issues comprehensively, ensuring data security, patient privacy, and efficient data exchange while complying with evolving healthcare regulations. One such challenge is the burdensome process patients face when they visit a new healthcare provider, having to repeatedly provide their complete medical history. To alleviate this, there is a pressing need for a system that allows patients to grant secure access to their medical records to healthcare professionals, streamlining the care process and enhancing the overall quality of healthcare delivery.
+The current healthcare system relies on centralized databases controlled by individual hospitals, resulting in limited patient control over personal health data. Patients face challenges related to data accuracy, integrity, and sharing as a result of this centralized approach. Hospitals and healthcare institutions own and manage patient records, which can hinder patients' ability to manage and share their health information, particularly when seeking treatment at different healthcare facilities.
 ## Solution
-
-## Presentation
-
+To overcome the transition challenges from paper-based medical records to Electronic Health Records (EHRs), integrating blockchain technology and smart contracts is a robust solution. Blockchain ensures data security and integrity, while smart contracts automate patient-controlled EHR access, improving data sharing and enhancing healthcare efficiency.
+## [Presentation Link](https://www.canva.com/design/DAFzPjEZSts/qd3RUwbHwDgFiDk-mFPIhg/edit?utm_content=DAFzPjEZSts&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ## Team Members
 - Yash Katiyar
 - Parth Rawat
